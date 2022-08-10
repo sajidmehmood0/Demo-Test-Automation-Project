@@ -1,0 +1,9 @@
+com\demo\testCases\TC_LoginTest_DataDriven_002.class
+com\demo\testCases\TC_LoginTest_001.class
+com\demo\pageObjects\AddCustomer_Page.class
+com\demo\utilities\Reporting.class
+com\demo\utilities\XLUtils.class
+com\demo\utilities\ReadConfig.class
+com\demo\testCases\baseClass.class
+com\demo\testCases\TC_addCustomer_003.class
+com\demo\pageObjects\LoginPage.class
